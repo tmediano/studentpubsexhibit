@@ -21,9 +21,9 @@ source-code: https://github.com/learn-static/digital-exhibit-lab
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Digital Exhibit Lab
+title: Student Publication Digital Exhibit Lab
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Learn-Static Template
+tagline: A collaborative project highlighting aspects of RISD's student publications
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A Learn-Static template designed to teach digital scholarship concepts and critical literacies via a hands-on experience creating a digital exhibit."
@@ -44,8 +44,8 @@ metadata-csv: /assets/metadata_demo.csv
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Learn-Static"
-organization-link: https://github.com/learn-static
+organization-name: "RISD Archives"
+organization-link: https://digitalcommons.risd.edu/studentnewspapers_collection/
 organization-logo-banner: /assets/img/learn-static.svg
 organization-logo-nav: /assets/img/learn-static-white.svg
 
