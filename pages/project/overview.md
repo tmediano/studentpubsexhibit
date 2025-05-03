@@ -4,43 +4,19 @@ layout: page-narrow
 permalink: /project/overview.html
 ---
 
-{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/watkins/small/watkins56_sm.jpg" %}
-
 # Digital Exhibit Lab Overview
 
-Instructions for learners are published as part of your *Digital Exhibit Lab* project website.
-This demo site provides some example instructions and guidelines specific to a classroom experience.
-Instructors will customize these pages to their specific context and assignment details.
+Please read the below instructions carefully.
 
 *Digital Exhibit Lab* project involves several components:
 
-- **Archival Research:** Working with [U of I Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/), explore and do hands on research with primary source materials related to mining. Highlighted materials include:
-    - [Bunker Hill Company records, 1887-1984](http://archiveswest.orbiscascade.org/ark:/80444/xv65328)
-    - [Stanly Easton Papers, 1900-1957](https://archiveswest.orbiscascade.org/ark:/80444/xv66353)
-    - [Barnard-Stockbridge Ledgers and Other Papers, 1888-1989](https://archiveswest.orbiscascade.org/ark:/80444/xv01033)
-- **Digitization:** From your archival research, select at least one photograph and one text source to digitize. Working with the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) (CDIL), scan your selected items and prepare digital files.
-- **Curation:** Explore [U of I Library Digital Collections](https://www.lib.uidaho.edu/digital/collections.html) and select five additional items from existing digital collections.
-- **Description and Metadata:** Create metadata following the collection template to describe your digitized and curated items.
+- **Archival Research:** We are going to explore RISD's historical [student publications](https://digitalcommons.risd.edu/studentnewspapers_collection/) to identify themes and trends that interest you. You may choose one publication to focus on or track themes across publications.
+- **Curation:** Select five articles or images from the publications that relate to your theme.
+- **Description and Metadata:** Create metadata following the collection template to describe your curated items.
 - **Exhibit:** Once all objects and metadata are submitted, CDIL generates the final digital exhibit (this site!). 
 - **Research and Reflection:** Write your course papers and reflections informed by your archival research and project experience.
 
 The sections below provide an overview of the project digital collection project components and the learning objectives.
-
-## Digitization 
-
-> *digitize*, v. to transform analog information into digital form ([SAA Dictionary](https://dictionary.archivists.org/entry/digitize.html))
-{:.blockquote .border-left .pl-3 .lead .my-3}
-
-Digitization is the process of creating a digital representation of physical materials--for example, scanning a photograph to create a digital JPEG image or scanning using OCR on a print document to create a PDF.
-In the digital files we create and the information we publish, we strive to represent the original source materials and maintain the integrity of the records as accurately as possible.
-By converting physical information into a digital format, digitization can open up more access to traditional archival materials and enable new forms of inquiry and communication.
-
-We often take for granted the millions of archival documents and artifacts available online, without thinking about the long chain of people and processes that created them.
-Digitization in archives has transformed historical research in many ways, so it is important to understand and think critically about.
-
-This project asks you to get hands on with that process, bringing physical materials from the archive into the digital world.
-
-See [Digitization Guidelines]({{ '/project/digitization.html' | relative_url }}) for details.
 
 ## Curation
 
@@ -49,8 +25,6 @@ Selections and interventions were made a multiple points along the trajectory of
 Each of these choices bring biases, [archival silences](https://dictionary.archivists.org/entry/archival-silence.html), and new interpretations.
 
 In this project you will also be making selections, mining the archive to curate a small set of records relevant to the course research project.
-Your first act of curation is selecting your objects for digitization from the archives.
-We would like you to go further, enhancing the final *Digital Exhibit Lab* collection by selecting five items from U of I digital collections relevant to your research questions.
 
 While digging into the existing digital archives, consider how this process is different than your experience working with the physical archives in Special Collections.
 
@@ -98,7 +72,7 @@ See [Metadata Guidelines]({{ '/project/metadata.html' | relative_url }}) for det
 {:.blockquote .border-left .pl-3 .lead .my-3}
 
 Everyone's work on the project will contribute to the *Digital Exhibit Lab* digital exhibit.
-Once objects and metadata are complete, the CDIL team will add them to the [project repository](https://github.com/thecdil/hist-454-2022) hosted on GitHub, publishing our final collection.
+Once objects and metadata are complete, the RISD Archivist will add them to the project repository hosted on GitHub, publishing our final collection.
 The objects on this site can be used and cited in your research writing.
 
 Consider how the shift in context, from separate archival boxes and multiple collections, to this new exhibit has impacted the interpretation and understanding of the items.
